@@ -52,6 +52,8 @@ Enter your choice: 2
 --- Inventory List ---
 ID: 101 || Name: Pen || Quantity: 100 || Price: 10.50
 
+![Demo Screenshot](./screenshot.png)
+
 ---
 
 ## 🗂️ Files
