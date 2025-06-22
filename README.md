@@ -23,9 +23,8 @@ A simple console-based Inventory Management System written in **C**, allowing yo
 
 ---
 
-## 🛠️ How to Compile & Run
+## ▶️ Run This Project in Your Browser (via Replit)
 
-#### Using GCC:
-```bash
-gcc main.c -o inventory
-./inventory
+You can run this project instantly online without any setup:
+
+[![Run on Replit](https://replit.com/badge/github/ananyasaha5/Inventory-System)](https://replit.com/@ananya2005saha/Inventory-System-C)
