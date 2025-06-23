@@ -28,7 +28,6 @@ A simple console-based Inventory Management System written in **C**, allowing yo
 Run the project instantly in your browser using either:
 
 🔹 [Run on OnlineGDB](https://onlinegdb.com/s3mZWsMuC)
-🔹 [![Run on Replit](https://replit.com/@ananya2005saha/Inventory-System-C?v=1)
 
 ---
 
